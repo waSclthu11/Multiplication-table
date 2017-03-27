@@ -24,3 +24,4 @@ Height of multiplication table: 8
 print("          Multiplication Table")
 
 print("  |", end = '')
+for j in range(1, 10):

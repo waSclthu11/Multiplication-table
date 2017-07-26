@@ -3,7 +3,7 @@
 *Challenge by Jack Boffa, HHS &apos;14*
 
 Write and submit a Python program that prints a multiplication table.
-The user must be able to determine the width and height of the table 
+The user must be asked to give the width and height of the table 
 before it is printed.
 
 It may be simpler to start by printing a grid consisting of Xs rather 

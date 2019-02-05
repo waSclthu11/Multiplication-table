@@ -24,7 +24,8 @@ Height of multiplication table: 8
 x = int(input("input"))
 y = int(input("input"))
 
-for row in x:
-    for column in y:
-        print(row)
+for row in range(1, x+1):
+    for column in range(1, y+1):
+        w= row*column
+        print(
     

@@ -27,5 +27,6 @@ y = int(input("input"))
 for row in range(1, x+1):
     for column in range(1, y+1):
         w= row*column
-        print(
+        print("{0:>3}".format(w), end="")
+    print()
     
